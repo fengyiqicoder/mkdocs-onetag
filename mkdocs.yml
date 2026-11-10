@@ -1,0 +1,48 @@
+site_name: Ask AI for MkDocs
+site_description: A free Ask AI box for MkDocs and Material for MkDocs sites. One line in mkdocs.yml, no plugin, no server, no crawler.
+site_url: https://fengyiqicoder.github.io/mkdocs-onetag/
+repo_url: https://github.com/fengyiqicoder/mkdocs-onetag
+repo_name: fengyiqicoder/mkdocs-onetag
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+nav:
+  - Home: index.md
+  - Install: install.md
+  - Options: options.md
+  - How it works: how-it-works.md
+  - Other static sites: other-sites.md
+  - Limits and cost: limits.md
+  - FAQ: faq.md
+
+markdown_extensions:
+  - tables
+  - pymdownx.superfences
+  - pymdownx.keys
+  - toc:
+      permalink: true
+
+# The whole integration is this one line. The key below belongs to this demo site:
+# get your own, free, at https://onetagai.com and put it in its place.
+extra_javascript:
+  - https://onetagai.com/ask-docs.js?key=ot_Ll23BB11HZQcJOdG19YcHX38
