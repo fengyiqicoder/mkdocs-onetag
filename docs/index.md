@@ -17,7 +17,7 @@ extra_javascript:
   - https://onetagai.com/ask-docs.js?key=YOUR_ONETAG_KEY
 ```
 
-Get the key at [onetagai.com](https://onetagai.com/?ref=mkdocs-onetag): one email, no card, 1,000,000 tokens a month. The full steps are on [Install](install.md).
+Get the key at [onetagai.com](https://onetagai.com/?ref=mkdocs-onetag): one email, no card, 1,000,000 tokens, one time, no monthly reset. The full steps are on [Install](install.md).
 
 ## What you do not need
 
@@ -31,7 +31,7 @@ Get the key at [onetagai.com](https://onetagai.com/?ref=mkdocs-onetag): one emai
 - Up to three links to the pages the answer came from.
 - Follow-up questions that remember the conversation.
 - Answers in the language of the question, also when the docs are in another one.
-- When the AI cannot answer (the monthly allowance is used up, the network is down), the matching pages are still listed, as plain search would.
+- When the AI cannot answer (the allowance is used up, the network is down), the matching pages are still listed, as plain search would.
 
 ## Not on MkDocs?
 

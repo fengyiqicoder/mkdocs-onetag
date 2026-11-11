@@ -2,7 +2,7 @@
 
 ## What it costs
 
-Nothing on the free plan: a OneTag AI key comes with 1,000,000 tokens a month. The count starts again on the 1st of each month (UTC).
+Nothing on the free plan: a OneTag AI key comes with 1,000,000 tokens, one time, no monthly reset. It is a one-time allowance with no monthly reset.
 
 A question uses tokens for the passages sent with it and for the answer. The passages are the larger part: up to 20,000 characters of your pages go with each question, and the answer is capped at 500 tokens. On this site a question costs 1,000 to 3,000 tokens; the most one can cost is about 6,000. The free allowance is therefore good for roughly 300 to 1,000 questions a month.
 

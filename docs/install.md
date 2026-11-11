@@ -2,9 +2,9 @@
 
 ## 1. Get a key
 
-Go to [onetagai.com](https://onetagai.com/?ref=mkdocs-onetag), enter your email and open the link you are sent. The key starts with `ot_`. It is free: 1,000,000 tokens a month, no card.
+Go to [onetagai.com](https://onetagai.com/?ref=mkdocs-onetag), enter your email and open the link you are sent. The key starts with `ot_`. It is free: 1,000,000 tokens, one time, no monthly reset, no card.
 
-The key goes into your page source. That is how it is meant to be used: it can only ask the AI questions and it has a monthly cap, so the worst a copied key can do is use up that month's allowance.
+The key goes into your page source. That is how it is meant to be used: it can only ask the AI questions and it has a hard cap, so the worst a copied key can do is use up the allowance.
 
 ## 2. Add one line to mkdocs.yml
 

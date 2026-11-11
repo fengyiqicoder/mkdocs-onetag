@@ -15,7 +15,7 @@ extra_javascript:
   - https://onetagai.com/ask-docs.js?key=YOUR_ONETAG_KEY
 ```
 
-Get the key at [onetagai.com](https://onetagai.com/?ref=mkdocs-onetag): one email, no card, 1,000,000 tokens a month. That is roughly 300 to 1,000 questions.
+Get the key at [onetagai.com](https://onetagai.com/?ref=mkdocs-onetag): one email, no card, 1,000,000 tokens, one time, no monthly reset. That is roughly 300 to 1,000 questions.
 
 There is no plugin to install and nothing to build. MkDocs already writes a full-text index to `search/search_index.json`; the script reads it in the reader's browser, picks the sections that match the question and sends them to the AI with it. No server of yours, no crawler, no AI provider account.
 
